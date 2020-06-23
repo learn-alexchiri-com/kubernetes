@@ -1,2 +1,3 @@
-# kubernetes
-All kubernetes related snippets show in learn.alexchiri.com videos.
+# Kubernetes
+
+All kubernetes related files shown in https://learn.alexchiri.com videos.
